@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python train_meta.py --device auto
 ```
 
-## 5. 输出文件
+## 4. 输出文件
 
 运行后会生成 `results/` 目录，主要包括：
 
